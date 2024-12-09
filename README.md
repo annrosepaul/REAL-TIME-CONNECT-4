@@ -22,4 +22,9 @@ Welcome to Connect 4, an immersive and strategic twist on the classic game of Ti
 
 Connect 4 delivers endless fun and strategic challenges. Master gravity, choose your mode, and enjoy this advanced take on Tic Tac Toe. 
 
-Connect 4 exemplifies innovation and creativity in game development, offering an engaging experience for all players. Thank you for exploring this project!
+Connect 4 exemplifies innovation and creativity in game development, offering an engaging experience for all players. Thank you for exploring this project!!
+[Screenshot 2024-10-31 124908](https://github.com/user-attachments/assets/4ee1352f-8e2c-43a6-83e4-ace063c665b1)
+![Screenshot 2024-10-31 125516](https://github.com/user-attachments/assets/19238a40-7dc8-41c1-8d11-d6a3ed5efcc4)
+
+
+
