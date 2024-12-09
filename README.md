@@ -24,9 +24,8 @@ Connect 4 delivers endless fun and strategic challenges. Master gravity, choose 
 
 Connect 4 exemplifies innovation and creativity in game development, offering an engaging experience for all players. Thank you for exploring this project!!
 
-[GAME DISPLAY](https://github.com/user-attachments/assets/4ee1352f-8e2c-43a6-83e4-ace063c665b1)
+![GAME DISPLAY](https://github.com/user-attachments/assets/d5e94faf-d572-40a4-841f-09e943550444)
 
-![GAME OPTION](https://github.com/user-attachments/assets/19238a40-7dc8-41c1-8d11-d6a3ed5efcc4)
 
 
 
